@@ -28,7 +28,7 @@
           <div>
             <label for="priority" class="form-label" style="color:#6261FE">Priority</label>
             <select name="priority" class="form-select" style="border: 1px solid #6261FE">
-              <option value="" selected disabled hidden></option>
+              <option value="" selected></option>
               <option value="low">Low</option>
               <option value="medium">Medium</option>
               <option value="high">High</option>
